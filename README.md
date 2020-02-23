@@ -19,7 +19,7 @@ For using the interface:
 
 For testing/training the model:
 1. Execute first stepts
-2. In the terminal, type "python model.py" for testing accuracy or "python model.py to train the model (if you just want to test the model you can also just run the model.py script directly)
+2. In the terminal, type "python model.py" for testing accuracy or "python model.py train" to train the model (if you just want to test the model you can also just run the model.py script directly)
 3. See console for prediction accuracy of Support Vector Machine or wait until a new training model is created
 
 (Note: This program runs with a pretrained model, which is used for the interface.py for demonstration purposes and to get the accuracy on the test set. It is not necessary to train the model again, but feel free to do so. It may take several days to train on any regular laptop.)
