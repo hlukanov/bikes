@@ -4,9 +4,9 @@ Python 3.5.2 or newer is necessary
 First steps:
 1. Download archive from GitHub
 2. Extract archive
-3. Download booking data from "https://data.deutschebahn.com/dataset/data-call-a-bike/resource/0fcce4dd-7fc6-43f8-a59c-983a7945f8ba"
+3. Download booking data from "https://data.deutschebahn.com/dataset/data-call-a-bike/resource/0fcce4dd-7fc6-43f8-a59c-983a7945f8ba" {4,01 GB}
 4. Extract archive "OPENDATA_BOOKING_CALL_A_BIKE.csv", rename to route_data.csv and save in extracted bikes archive under subfolder "data"
-5. Download train_test_data.csv from "https://drive.google.com/open?id=1MXj7RgAU_UGhLzo8brt3dzboRSAmmdA3" and save in extracted bikes archive under subfolder "data" (Note: this can also be created by running the preprocess.py again)
+5. Download train_test_data.csv from "https://drive.google.com/open?id=1MXj7RgAU_UGhLzo8brt3dzboRSAmmdA3" {52 MB} and save in extracted bikes archive under subfolder "data" (Note: this can also be created by running the preprocess.py again)
 5. Open a terminal and navigate to the extracted archive with "cd PATH/TO/FOLDER"
 6. Install required dependencies with "pip install -r requirements.txt"
 7. Run preprocess.py in an adequate run-time environment
